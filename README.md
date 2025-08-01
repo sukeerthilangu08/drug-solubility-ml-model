@@ -48,6 +48,7 @@ The comparison was based on performance metrics such as Mean Squared Error (MSE)
 ## Project Structure
 
 drug-solubility-ml-model/
+
 ├── first_ML_project.ipynb # Final visualizations
 
 ├── requirements.txt # Python dependencies
